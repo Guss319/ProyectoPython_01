@@ -1,0 +1,5 @@
+Librerias usadas
+pandas
+matplotlib
+tkinter
+pillow
